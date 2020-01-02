@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyListViewKT</string>
+    <string name="name_heroes">Name</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string-array name="data_name">
+        <item>Fiqih Firdaus Maulana</item>
+        <item>M Yusqi Faqih</item>
+        <item>M Rizal Ari R</item>
+        <item>M Aziz Sige K</item>
+        <item>Nurul Nur Qomariyah</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque culpa cum, ex facere impedit itaque iusto laborum maiores nulla quam saepe similique sit tenetur, voluptatem voluptatibus! Dolorum libero repellendus repudiandae!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, asperiores commodi dolore dolorem ducimus, eius eligendi iusto neque nihil nostrum officia, optio quis quo tempore ut. Aperiam dolore neque repudiandae.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid animi, assumenda at blanditiis delectus dolor dolorem ea est in, iusto nam nostrum perferendis quisquam ratione rem, repellat similique tempore voluptates.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, asperiores commodi dolore dolorem ducimus, eius eligendi iusto neque nihil nostrum officia, optio quis quo tempore ut. Aperiam dolore neque repudiandae.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid animi, assumenda at blanditiis delectus dolor dolorem ea est in, iusto nam nostrum perferendis quisquam ratione rem, repellat similique tempore voluptates.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/fiqih</item>
+        <item>@drawable/yusqi</item>
+        <item>@drawable/rizal</item>
+        <item>@drawable/ajis</item>
+        <item>@drawable/nurul</item>
+    </array>
+</resources>
